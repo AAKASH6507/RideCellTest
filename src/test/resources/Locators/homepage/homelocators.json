@@ -1,0 +1,12 @@
+{
+  "homePage": {
+    "reposList": "//div[@id='org-repositories']//div[@class='org-repos repo-list']//li",
+    "repositoryButton": "//li[@data-tab-item='org-header-repositories-tab']"
+  },
+  "Navigation": {
+    
+  },
+  "repository": {
+    
+  }
+}
